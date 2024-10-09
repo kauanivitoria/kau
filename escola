@@ -1,0 +1,23 @@
+[
+    ["ID", "Nome", "Marca"],
+    [1, "Estudante 1", "Nike"],
+    [2, "Estudante 2", "Adidas"],
+    [3, "Estudante 3", "Puma"],
+    [4, "Estudante 4", "H&M"],
+    [5, "Estudante 5", "Zara"],
+    [6, "Estudante 6", "Levi's"],
+    [7, "Estudante 7", "C&A"],
+    [8, "Estudante 8", "Forever 21"],
+    [9, "Estudante 9", "Gap"],
+    [10, "Estudante 10", "Calvin Klein"],
+    [11, "Estudante 11", "Converse"],
+    [12, "Estudante 12", "Tommy Hilfiger"],
+    [13, "Estudante 13", "Lacoste"],
+    [14, "Estudante 14", "Abercrombie"],
+    [15, "Estudante 15", "Uniqlo"],
+    [16, "Estudante 16", "Vans"],
+    [17, "Estudante 17", "Hollister"],
+    [18, "Estudante 18", "North Face"],
+    [19, "Estudante 19", "Roxy"],
+    [20, "Estudante 20", "Superdry"]
+]
