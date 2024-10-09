@@ -1,0 +1,42 @@
+[
+    {
+        "marca": "Nike",
+        "votos": 350
+    },
+    {
+        "marca": "Adidas",
+        "votos": 300
+    },
+    {
+        "marca": "Puma",
+        "votos": 200
+    },
+    {
+        "marca": "H&M",
+        "votos": 250
+    },
+    {
+        "marca": "Zara",
+        "votos": 150
+    },
+    {
+        "marca": "Levi's",
+        "votos": 180
+    },
+    {
+        "marca": "Uniqlo",
+        "votos": 220
+    },
+    {
+        "marca": "Forever 21",
+        "votos": 120
+    },
+    {
+        "marca": "Lacoste",
+        "votos": 100
+    },
+    {
+        "marca": "Ralph Lauren",
+        "votos": 130
+    }
+]
