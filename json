@@ -1,0 +1,52 @@
+[
+    {
+        "marca": "Nike",
+        "votos": 350,
+        "categorias": ["Esportiva", "Casual"]
+    },
+    {
+        "marca": "Adidas",
+        "votos": 300,
+        "categorias": ["Esportiva", "Casual"]
+    },
+    {
+        "marca": "Puma",
+        "votos": 200,
+        "categorias": ["Esportiva", "Casual"]
+    },
+    {
+        "marca": "H&M",
+        "votos": 250,
+        "categorias": ["Fast Fashion"]
+    },
+    {
+        "marca": "Zara",
+        "votos": 150,
+        "categorias": ["Fast Fashion"]
+    },
+    {
+        "marca": "Levi's",
+        "votos": 180,
+        "categorias": ["Denim"]
+    },
+    {
+        "marca": "Uniqlo",
+        "votos": 220,
+        "categorias": ["Casual", "Basica"]
+    },
+    {
+        "marca": "Forever 21",
+        "votos": 120,
+        "categorias": ["Fast Fashion"]
+    },
+    {
+        "marca": "Lacoste",
+        "votos": 100,
+        "categorias": ["Casual"]
+    },
+    {
+        "marca": "Ralph Lauren",
+        "votos": 130,
+        "categorias": ["Casual"]
+    }
+]
